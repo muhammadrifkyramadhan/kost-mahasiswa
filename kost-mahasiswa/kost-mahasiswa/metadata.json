@@ -1,6 +1,0 @@
-{
-  "name": "KostMahasiswa - Sistem Informasi & Booking Kos",
-  "description": "Sistem Informasi Kos Mahasiswa terpadu dengan pencarian lokasi, booking kamar online, pembayaran digital, dashboard pengelola, chat penyewa, tiket kendala, dan keamanan 2FA.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
